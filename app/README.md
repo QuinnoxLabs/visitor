@@ -1,2 +1,2 @@
-# visitor
-A simple app for recording visitors using QR code scans
+# App
+The mobile app for creating the visitor and scanning the visitor in

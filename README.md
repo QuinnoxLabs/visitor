@@ -1,2 +1,2 @@
 # visitor
-A simple app for recording visitor
+A simple app for recording visitors

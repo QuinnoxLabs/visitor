@@ -1,2 +1,2 @@
-# Api
+# api
 The api backend for the mobile app

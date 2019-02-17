@@ -1,0 +1,5 @@
+*.[Pp]ublish.xml
+*.azurePubxml
+*.pubxml
+*.publishproj
+*.publishsettings

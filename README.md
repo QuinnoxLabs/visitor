@@ -1,7 +1,7 @@
 # visitor
 A simple React Native app for recording visitors using QR code scans
 
-#Tech Stack
+# Tech Stack  
 React Native front end  
 .Net Core 2 back end hosted as Azure App Service  
 SQL Azure  
